@@ -1,0 +1,5 @@
+/node_modules
+# environmental variable file: hide API keys from repo
+.env
+# misc
+.DS_Store
